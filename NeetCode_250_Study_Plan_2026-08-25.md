@@ -14,8 +14,8 @@
 **Topic:** Sliding Window
 
 **Problems:**
-- [ ] 🟢 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) - *Sliding Window*
-- [ ] 🟡 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - *Sliding Window*
+- [x] 🟢 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) - *Sliding Window*
+- [x] 🟡 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - *Sliding Window*
 
 ## Day 2 - 2026-08-26
 **Topic:** Sliding Window
