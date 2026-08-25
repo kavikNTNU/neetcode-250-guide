@@ -450,7 +450,7 @@ def main():
         counter += 1
 
     # Save to file
-    with open(filename, 'w') as f:
+    with open(filename, 'w', encoding='utf-8') as f:
         f.write(markdown_content)
 
     print(f"✅ Generated complete 125-day plan with {len(plan)} days")
